@@ -15,6 +15,7 @@ Stuff I like:
 - computers
 - [K3s](https://k3s.io)
 - music
+- tea (matcha and earl grey)
 
 also FYI theres some random stuff in [this repo](https://github.com/tuxza/tuxza) (a list of things on my desk, etc.)
 
