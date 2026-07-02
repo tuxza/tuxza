@@ -1,19 +1,25 @@
 ## Hi! I'm Tuxzilla!
 
 Stuff I'm Working on:
-- [spool](https://github.com/tuxza/spool), a CDN uploader written in Rust
-- [rust-playground](https://github.com/tuxza/rust-playground) Random things I've made in Rust
+- [botplate](https://github.com/tuxza/botplate/) the botplate rewrite in Rust
+- [tuxzilla.com](https://github.com/tuxza/tuxzilla.com) my HTML files
 - probably something else i dont remember
 
+In the Queue: 
+- [spool](https://github.com/tuxza/spool) zipline except cooler
+- [Mochi](https://github.com/tuxza/mochi) cool analytics tracker
+- [Ramen](https://github.com/tuxza/ramen/) MD to HTML converter thinger
+
 Stuff I'm Learning:
-- Rust 
-- Studying for Comptia Linux+ and Network+
+- perhaps TypeScript soon
+- Studying for my Comptia Linux+ and A+
 
 Stuff I like:
 - animals
 - cars
 - computers
-- [K3s](https://k3s.io)
+- [K3s](https://k3s.io/)
+- [Podman](https://podman.io/)
 - music
 - tea (matcha and earl grey)
 
